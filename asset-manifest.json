@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ColorMeRight/static/css/main.d565cc89.css",
+    "main.js": "/ColorMeRight/static/js/main.3bf585e6.js",
+    "static/media/loadingscreen@3x.png": "/ColorMeRight/static/media/loadingscreen@3x.8db8c7f74eef9a72ac50.png",
+    "index.html": "/ColorMeRight/index.html",
+    "main.d565cc89.css.map": "/ColorMeRight/static/css/main.d565cc89.css.map",
+    "main.3bf585e6.js.map": "/ColorMeRight/static/js/main.3bf585e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d565cc89.css",
+    "static/js/main.3bf585e6.js"
+  ]
+}
